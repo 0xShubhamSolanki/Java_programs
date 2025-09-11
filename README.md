@@ -7,3 +7,4 @@
 7. rotate a number by k
 8. GCD and LCM
 9. prime factorization
+10. Pattern 1 * from 1 to n triangle
