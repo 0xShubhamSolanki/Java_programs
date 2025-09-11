@@ -6,4 +6,4 @@
 6. inverse of a number lec 23 pepcoding
 7. rotate a number by k
 8. GCD and LCM
-9.prime factorization
+9. prime factorization
