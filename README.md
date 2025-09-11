@@ -5,3 +5,4 @@
 5. print last to first digit 
 6. inverse of a number lec 23 pepcoding
 7. rotate a number by k
+8. GCD and LCM
