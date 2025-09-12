@@ -11,3 +11,4 @@
 11. Pattern 2 * triangle reverse 
 12. Pattern 3
 13. pattern 4
+14. pattern 5
