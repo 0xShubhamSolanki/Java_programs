@@ -10,3 +10,4 @@
 10. Pattern 1 * from 1 to n triangle 
 11. Pattern 2 * triangle reverse 
 12. Pattern 3
+13. pattern 4
