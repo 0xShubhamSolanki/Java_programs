@@ -13,3 +13,4 @@
 13. pattern 4
 14. pattern 5
 15. pattern 6
+16. Diamond pattern
