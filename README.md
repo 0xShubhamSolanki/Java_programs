@@ -12,3 +12,4 @@
 12. Pattern 3
 13. pattern 4
 14. pattern 5
+15. pattern 6
