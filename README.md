@@ -16,3 +16,4 @@
 16. Diamond pattern
 17. Increasing triangle
 18. nCr Triangle
+19. unique pattern
