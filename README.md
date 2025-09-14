@@ -21,3 +21,4 @@
 21. advance pattern 2
 22. advance Pattern 3
 23. Swastik Pattern
+24. W pattern
