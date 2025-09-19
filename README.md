@@ -22,4 +22,4 @@
 22. advance Pattern 3
 23. Swastik Pattern
 24. W pattern
-25.) Sum OF 2 array
+25. Sum OF 2 array
