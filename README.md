@@ -24,3 +24,4 @@
 24. W pattern
 25. Sum OF 2 array
 26. difference of 2 array
+27. Dublicate brackets
