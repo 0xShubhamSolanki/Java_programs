@@ -26,3 +26,4 @@
 26. difference of 2 array
 27. Dublicate brackets
 28. Balanced brackets
+29. Next greater Elements to the right
