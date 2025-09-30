@@ -28,3 +28,4 @@
 28. Balanced brackets
 29. Next greater Elements to the right
 30. Stock Span
+31. max Area of histogram
