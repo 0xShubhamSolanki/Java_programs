@@ -1,4 +1,4 @@
-30. Stack span1. fibonacci number upto N
+1. fibonacci number upto N
 2. prime number between 2 numbers 
 3. count digits in a input
 4. print each digit of input
@@ -29,3 +29,5 @@
 29. Next greater Elements to the right
 30. Stock Span
 31. max Area of histogram
+32. Stack span1
+33. Sliding Window Maximum
